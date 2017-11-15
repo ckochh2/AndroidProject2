@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/viewpicture"
+        android:title="View Picture">
+    </item>
+
+    <item
+        android:id="@+id/seewebsite"
+        android:title="See Website">
+    </item>
+
+    <item
+        android:id="@+id/listdealers"
+        android:title="See Dealers">
+    </item>
+</menu>
